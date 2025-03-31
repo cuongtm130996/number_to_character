@@ -42,6 +42,7 @@ android {
     }
 
     defaultConfig {
+        namespace 'com.example.number_to_character'
         minSdkVersion 16
     }
 }
